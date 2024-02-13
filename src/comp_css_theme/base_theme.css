@@ -1,0 +1,17 @@
+/* דוגמה לכיתת CSS לעיצוב בסגנון בסיסי עם גווני לבן וורוד */
+.cv-container-base {
+    background-color: #ffffff;
+    color: #333333;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.cv-section-base {
+    background-color: #f9f9f9;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.cv-title-base {
+    color: #ff3399;
+}

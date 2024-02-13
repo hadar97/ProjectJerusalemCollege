@@ -1,0 +1,20 @@
+.cv-container-brown {
+    background-color: #F2D2BD;
+    color: #333333;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.cv-section-brown {
+    background-color: #ffffff;
+    padding: 15px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.myborder{
+    border:#B87333
+}
+.cv-highlight-brown {
+    color: #ff6600;
+    font-weight: bold;
+}

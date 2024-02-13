@@ -1,0 +1,24 @@
+.cv-container {
+    background-image: url('./public/flowers-background.jpg');
+    background-size: cover;
+    color: #000000;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.cv-section {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 15px;
+    margin-bottom: 20px;
+    justify-content: center
+
+}
+
+.cv-flower {
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+    display: inline-block;
+    margin-right: 10px;
+}
